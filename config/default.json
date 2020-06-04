@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "monaco$marvi",
+  "mongoUri": "mongodb+srv://dmytro:kiri323Siri@cluster0-ocryo.mongodb.net/app?retryWrites=true&w=majority"
+}
